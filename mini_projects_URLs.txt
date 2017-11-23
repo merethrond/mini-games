@@ -1,0 +1,33 @@
+These are the URLs of the mini projects done during the
+three courses of the computation specialization by Rice University
+offered on Coursera.
+
+IIPP Part 1:
+Pong
+http://www.codeskulptor.org/#user43_PtiBkz2Ggg_11.py
+
+
+IIPP part 2:
+week 5 : Memory
+ http://www.codeskulptor.org/#user43_xiXaqgNX0h_7.py
+
+Week 6 : Blackjack
+http://www.codeskulptor.org/#user43_Cfpz0N3wWG_7.py
+
+Week 7 : Space ship
+http://www.codeskulptor.org/#user43_xtWESrxMKr_8.py
+
+Week 8 : Rice Rocks(Asteroid)
+http://www.codeskulptor.org/#user43_fxHttTy4VV_15.py
+
+
+Principles of computing Part 1:
+week 1 : 2048 merge function
+http://www.codeskulptor.org/#user43_ri3gxrtrL0_2.py
+
+Week 2 : 2048 full game
+http://www.codeskulptor.org/#user43_00b7MD9DSb_18.py
+
+Week 3 : tick tack toe
+board class with implementation:  http://www.codeskulptor.org/#user43_KieCFxddov_0.py
+machine strategy(To be graded):   http://www.codeskulptor.org/#user43_sP3RrlXBem_9.py
