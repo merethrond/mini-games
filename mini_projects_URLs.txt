@@ -1,15 +1,19 @@
 These are the URLs of the mini projects done during the
-three courses of the computation specialization by Rice University
+three courses of the computation specialisation by Rice University
 offered on Coursera.
 
-IIPP Part 1:
-Pong
-http://www.codeskulptor.org/#user43_PtiBkz2Ggg_11.py
+Note: The games don't run when google chrome browser window is maximised.
+      This has been found in Mac. Minimise the browser in order to run the games.
 
+IIPP Part 1:
+Pong:
+http://www.codeskulptor.org/#user43_PtiBkz2Ggg_11.py
+Instructions: In order to use left and right paddle, use up and down, and W and S
+              keys respectively. Ball moves faster with time.
 
 IIPP part 2:
 week 5 : Memory
- http://www.codeskulptor.org/#user43_xiXaqgNX0h_7.py
+http://www.codeskulptor.org/#user43_xiXaqgNX0h_7.py
 
 Week 6 : Blackjack
 http://www.codeskulptor.org/#user43_Cfpz0N3wWG_7.py
